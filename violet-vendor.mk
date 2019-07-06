@@ -1166,5 +1166,4 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     FingerprintExtensionService \
     PowerOffAlarm \
-    TimeService \
-    chargeonlymode
+    TimeService
